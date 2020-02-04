@@ -5,7 +5,7 @@ const LinkForm = ({ inputChange, buttonClick }) => {
   return (
     <div>
       <p className="f3">
-        {"This magic brain will detect face in your picture. Give it a try."}
+        {"This magic brain will detect faces in your picture. Give it a try."}
       </p>
       <div className="center">
         <div className="form center pa4 br3 shadow-5">
